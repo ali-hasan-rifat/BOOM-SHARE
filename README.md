@@ -1,4 +1,5 @@
-# BOOM-SHARE
+# Installing 
+
 apt update
 
 apt upgrade 
