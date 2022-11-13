@@ -14,7 +14,7 @@ cd BOOM-SHARE
 
 ls
 
-python BOOM.py
+python Boom.py
 
 
 
