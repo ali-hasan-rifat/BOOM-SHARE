@@ -1,20 +1,20 @@
 # Installing 
 
-apt update
+- apt update
 
-apt upgrade 
+- apt upgrade 
 
-pkg install python
+- pkg install python
 
-pkg install git
+- pkg install git
 
-git clone https://github.com/R1F4T-2-0/BOOM-SHARE
+- git clone https://github.com/R1F4T-2-0/BOOM-SHARE
 
-cd BOOM-SHARE
+- cd BOOM-SHARE
 
-ls
+- ls
 
-python Boom.py
+- python Boom.py
 
 
 
